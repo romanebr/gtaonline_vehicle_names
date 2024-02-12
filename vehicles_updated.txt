@@ -617,6 +617,7 @@ stalion
 stalion2
 stanier
 starling
+stingertt
 stinger
 stingergt
 stockade
